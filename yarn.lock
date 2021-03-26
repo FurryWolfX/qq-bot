@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@types/node@^14.14.36":
+  version "14.14.36"
+  resolved "https://registry.npm.taobao.org/@types/node/download/@types/node-14.14.36.tgz?cache=0&sync_timestamp=1616695464439&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fnode%2Fdownload%2F%40types%2Fnode-14.14.36.tgz#5637905dbb15c30a33a3c65b9ef7c20e3c85ebad"
+  integrity sha1-VjeQXbsVwwozo8ZbnvfCDjyF660=
+
 "@yunyoujun/logger@^0.1.2":
   version "0.1.2"
   resolved "https://registry.npm.taobao.org/@yunyoujun/logger/download/@yunyoujun/logger-0.1.2.tgz#10c780bb88de909207cd952c5522875410f5b453"
