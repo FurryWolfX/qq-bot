@@ -36,6 +36,7 @@ function getImageBody(msg: ChatMessage): ImageBody | undefined {
         msg.reply(`图片${body.imageId}下载成功！`);
       } catch (e) {
         console.error(e);
+        msg.reply(`图片${body.imageId}下载失败！`);
       }
     }
     // 复读
