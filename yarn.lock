@@ -2,38 +2,6 @@
 # yarn lockfile v1
 
 
-"@types/caseless@*":
-  version "0.12.2"
-  resolved "https://registry.npm.taobao.org/@types/caseless/download/@types/caseless-0.12.2.tgz?cache=0&sync_timestamp=1613378622464&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fcaseless%2Fdownload%2F%40types%2Fcaseless-0.12.2.tgz#f65d3d6389e01eeb458bd54dc8f52b95a9463bc8"
-  integrity sha1-9l09Y4ngHutFi9VNyPUrlalGO8g=
-
-"@types/node@*":
-  version "14.14.36"
-  resolved "https://registry.npm.taobao.org/@types/node/download/@types/node-14.14.36.tgz?cache=0&sync_timestamp=1616695464439&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fnode%2Fdownload%2F%40types%2Fnode-14.14.36.tgz#5637905dbb15c30a33a3c65b9ef7c20e3c85ebad"
-  integrity sha1-VjeQXbsVwwozo8ZbnvfCDjyF660=
-
-"@types/pngjs@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.npm.taobao.org/@types/pngjs/download/@types/pngjs-6.0.0.tgz?cache=0&sync_timestamp=1613379480721&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fpngjs%2Fdownload%2F%40types%2Fpngjs-6.0.0.tgz#d5372348793a383eb2220e43b661af61daf364b8"
-  integrity sha1-1TcjSHk6OD6yIg5DtmGvYdrzZLg=
-  dependencies:
-    "@types/node" "*"
-
-"@types/request@^2.48.5":
-  version "2.48.5"
-  resolved "https://registry.npm.taobao.org/@types/request/download/@types/request-2.48.5.tgz?cache=0&sync_timestamp=1613384226556&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Frequest%2Fdownload%2F%40types%2Frequest-2.48.5.tgz#019b8536b402069f6d11bee1b2c03e7f232937a0"
-  integrity sha1-AZuFNrQCBp9tEb7hssA+fyMpN6A=
-  dependencies:
-    "@types/caseless" "*"
-    "@types/node" "*"
-    "@types/tough-cookie" "*"
-    form-data "^2.5.0"
-
-"@types/tough-cookie@*":
-  version "4.0.0"
-  resolved "https://registry.npm.taobao.org/@types/tough-cookie/download/@types/tough-cookie-4.0.0.tgz#fef1904e4668b6e5ecee60c52cc6a078ffa6697d"
-  integrity sha1-/vGQTkZotuXs7mDFLMageP+maX0=
-
 "@yunyoujun/logger@^0.1.2":
   version "0.1.2"
   resolved "https://registry.npm.taobao.org/@yunyoujun/logger/download/@yunyoujun/logger-0.1.2.tgz#10c780bb88de909207cd952c5522875410f5b453"
@@ -90,7 +58,7 @@ color-name@~1.1.4:
   resolved "https://registry.npm.taobao.org/color-name/download/color-name-1.1.4.tgz#c2a09a87acbde69543de6f63fa3995c826c536a2"
   integrity sha1-wqCah6y95pVD3m9j+jmVyCbFNqI=
 
-combined-stream@^1.0.6, combined-stream@^1.0.8:
+combined-stream@^1.0.8:
   version "1.0.8"
   resolved "https://registry.npm.taobao.org/combined-stream/download/combined-stream-1.0.8.tgz#c3d45a8b34fd730631a110a8a2520682b31d5a7f"
   integrity sha1-w9RaizT9cwYxoRCoolIGgrMdWn8=
@@ -116,15 +84,6 @@ follow-redirects@^1.10.0:
   version "1.13.3"
   resolved "https://registry.npm.taobao.org/follow-redirects/download/follow-redirects-1.13.3.tgz#e5598ad50174c1bc4e872301e82ac2cd97f90267"
   integrity sha1-5VmK1QF0wbxOhyMB6CrCzZf5Amc=
-
-form-data@^2.5.0:
-  version "2.5.1"
-  resolved "https://registry.npm.taobao.org/form-data/download/form-data-2.5.1.tgz#f2cbec57b5e59e23716e128fe44d4e5dd23895f4"
-  integrity sha1-8svsV7XlniNxbhKP5E1OXdI4lfQ=
-  dependencies:
-    asynckit "^0.4.0"
-    combined-stream "^1.0.6"
-    mime-types "^2.1.12"
 
 form-data@^4.0.0:
   version "4.0.0"
